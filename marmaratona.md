@@ -17,3 +17,7 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] Harry Potter
 - [ ] Twin Peaks 
 - [ ] A volta dops que não foram
+- [ ] A Viagem ao centro da terra'
+- [ ] Caçadores da arca perdida'
+- [ ] Rambo'
+- [ ] Exterminador do futuro'
