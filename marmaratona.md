@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno'
 - [ ] A Viagem ao centro da terra'
 - [ ] Caçadores da arca perdida'
+- [ ] Rambo'
+- [ ] Exterminador do futuro'
