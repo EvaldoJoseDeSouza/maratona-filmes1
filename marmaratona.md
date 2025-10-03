@@ -13,6 +13,10 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno'
+- [ ] A Viagem 
+- [ ] Harry Potter
+- [ ] Twin Peaks 
+- [ ] A volta dops que não foram
 - [ ] A Viagem ao centro da terra'
 - [ ] Caçadores da arca perdida'
 - [ ] Rambo'
